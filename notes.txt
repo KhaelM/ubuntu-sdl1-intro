@@ -1,0 +1,2 @@
+=> SLD_FillRect Order is not important
+=> The last blitted element is on the top if attached to same element
